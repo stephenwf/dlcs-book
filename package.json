@@ -5,12 +5,12 @@
   "repository": "git@github.com:stephenwf/dlcs-book.git",
   "author": "Stephen Fraser <stephen.fraser@digirati.com>",
   "license": "MIT",
-"scripts": {
+  "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
-  },  
-"dependencies": {
+  },
+  "dependencies": {
     "next": "^13.4.8",
     "nextra": "^2.8.0",
     "nextra-theme-docs": "^2.8.0",
